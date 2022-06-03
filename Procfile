@@ -1,1 +1,1 @@
-web: cd dist
+web: cd dist && http-server
